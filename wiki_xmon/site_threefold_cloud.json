@@ -1,0 +1,16 @@
+{
+    "name": "threefold_cloud",
+    "prefix": "cloud",
+    "git_url":  "https://github.com/threefoldfoundation/www_threefold_cloud/tree/development",
+    "pull": false,
+    "reset": false,
+    "cat":  2,
+    "domains": [
+        "cloud.threefold.io",
+        "cloud.threefold.me"
+    ],
+    "descr": "for people looking to deploy solutions on top of a cloud, alternative to e.g. digital ocean",
+    "groups": [],
+    "acl": [],
+    "trackingid": ""
+}
